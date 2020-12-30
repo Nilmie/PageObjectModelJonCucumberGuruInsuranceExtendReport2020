@@ -1,0 +1,8 @@
+Utility\JSONReader.class
+MiHCM\HomePage.class
+MiHCM\LoginPage.class
+Utility\ReadExcel.class
+Utility\ExtendReport.class
+Runner\TestRunner.class
+StepDefinition\RegisterInsurance.class
+MiHCM\SignIn.class

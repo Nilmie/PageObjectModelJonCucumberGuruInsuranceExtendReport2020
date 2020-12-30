@@ -1,0 +1,23 @@
+{
+	"URL" : "http://demo.guru99.com/test/newtours/",
+	"Title" : "Mrs",
+	"firstName" : "Nilmie",
+	"Surname" : "Gamhewa",
+	"phone"	 : "0772273515",
+	"DoBYear" : "1988",
+	"DOBMonth" : "1",
+	"DOBDate" : "20",
+	"FullOrProvi" : "Provisional",
+	"LicencePeriod" : "2",
+	"Occupation" : "Engineer",
+	"Street" : "Pannipitiya",
+	"City" : "Bogahawatta Road",
+	"Country" : "Sri Lanka",
+	"postalCode" : "10230",
+	"email" : "nilmie@mihcm.com",
+	"password" : "Password1234",
+	"confirmPassword" : "Password1234"
+
+}
+
+
